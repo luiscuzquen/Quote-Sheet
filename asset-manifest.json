@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ticketpredictor/static/css/main.53a3db6b.chunk.css",
-    "main.js": "/ticketpredictor/static/js/main.f8143ad6.chunk.js",
-    "main.js.map": "/ticketpredictor/static/js/main.f8143ad6.chunk.js.map",
-    "runtime~main.js": "/ticketpredictor/static/js/runtime~main.0cc7868a.js",
-    "runtime~main.js.map": "/ticketpredictor/static/js/runtime~main.0cc7868a.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/ticketpredictor/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.ee886119.chunk.js": "/ticketpredictor/static/js/2.ee886119.chunk.js",
-    "static/js/2.ee886119.chunk.js.map": "/ticketpredictor/static/js/2.ee886119.chunk.js.map",
-    "index.html": "/ticketpredictor/index.html",
-    "precache-manifest.19fb56ad27c7973d26d5b2060316eb45.js": "/ticketpredictor/precache-manifest.19fb56ad27c7973d26d5b2060316eb45.js",
-    "service-worker.js": "/ticketpredictor/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/ticketpredictor/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.53a3db6b.chunk.css.map": "/ticketpredictor/static/css/main.53a3db6b.chunk.css.map"
+    "main.css": "/Quote-Sheet/static/css/main.53a3db6b.chunk.css",
+    "main.js": "/Quote-Sheet/static/js/main.96c136e8.chunk.js",
+    "main.js.map": "/Quote-Sheet/static/js/main.96c136e8.chunk.js.map",
+    "runtime~main.js": "/Quote-Sheet/static/js/runtime~main.4fb49e16.js",
+    "runtime~main.js.map": "/Quote-Sheet/static/js/runtime~main.4fb49e16.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/Quote-Sheet/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.ee886119.chunk.js": "/Quote-Sheet/static/js/2.ee886119.chunk.js",
+    "static/js/2.ee886119.chunk.js.map": "/Quote-Sheet/static/js/2.ee886119.chunk.js.map",
+    "index.html": "/Quote-Sheet/index.html",
+    "precache-manifest.75bdc2a9c575956cc0a6176a5c474040.js": "/Quote-Sheet/precache-manifest.75bdc2a9c575956cc0a6176a5c474040.js",
+    "service-worker.js": "/Quote-Sheet/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/Quote-Sheet/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.53a3db6b.chunk.css.map": "/Quote-Sheet/static/css/main.53a3db6b.chunk.css.map"
   }
 }
