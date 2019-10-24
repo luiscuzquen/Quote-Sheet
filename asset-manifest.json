@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Quote-Sheet/static/css/main.dbc5f625.chunk.css",
-    "main.js": "/Quote-Sheet/static/js/main.b13ea5e4.chunk.js",
-    "main.js.map": "/Quote-Sheet/static/js/main.b13ea5e4.chunk.js.map",
+    "main.js": "/Quote-Sheet/static/js/main.aef2d769.chunk.js",
+    "main.js.map": "/Quote-Sheet/static/js/main.aef2d769.chunk.js.map",
     "runtime~main.js": "/Quote-Sheet/static/js/runtime~main.4fb49e16.js",
     "runtime~main.js.map": "/Quote-Sheet/static/js/runtime~main.4fb49e16.js.map",
     "static/css/2.60a6b8e0.chunk.css": "/Quote-Sheet/static/css/2.60a6b8e0.chunk.css",
     "static/js/2.9df7d110.chunk.js": "/Quote-Sheet/static/js/2.9df7d110.chunk.js",
     "static/js/2.9df7d110.chunk.js.map": "/Quote-Sheet/static/js/2.9df7d110.chunk.js.map",
     "index.html": "/Quote-Sheet/index.html",
-    "precache-manifest.cc6838c2cf9e669198aacf61835fa0d0.js": "/Quote-Sheet/precache-manifest.cc6838c2cf9e669198aacf61835fa0d0.js",
+    "precache-manifest.b6588a4330fa466611bf2c32986000b5.js": "/Quote-Sheet/precache-manifest.b6588a4330fa466611bf2c32986000b5.js",
     "service-worker.js": "/Quote-Sheet/service-worker.js",
     "static/css/2.60a6b8e0.chunk.css.map": "/Quote-Sheet/static/css/2.60a6b8e0.chunk.css.map",
     "static/css/main.dbc5f625.chunk.css.map": "/Quote-Sheet/static/css/main.dbc5f625.chunk.css.map"
